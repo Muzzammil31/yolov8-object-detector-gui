@@ -28,5 +28,5 @@ A powerful, user-friendly desktop application for real-time object detection usi
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/yolov8-object-detector-gui.git
+git clone https://github.com/Muzzammil31/yolov8-object-detector-gui.git
 cd yolov8-object-detector-gui
